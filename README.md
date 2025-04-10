@@ -26,4 +26,3 @@ Déploiement local d'un pipeline de données avec Apache Kafka et la stack Elast
 1. Clonez le dépôt :
    ```bash
    git clone https://github.com/christian2732/kafka-elk-docker.git
-   cd kafka-elk-docker
