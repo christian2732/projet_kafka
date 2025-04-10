@@ -20,10 +20,10 @@ Déploiement local d'un pipeline de données avec Apache Kafka et la stack Elast
 - Docker 20.10+
 - Docker Compose 2.5+
 - 4GB de RAM minimum (8GB recommandé)
-
+- installer winlogbeat
  Installation
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/kafka-elk-docker.git
+   git clone https://github.com/christian2732/kafka-elk-docker.git
    cd kafka-elk-docker
